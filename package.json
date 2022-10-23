@@ -1,0 +1,27 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "create a professional readme using the command-line",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkanvision/README-Generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "command-line-app"
+  ],
+  "author": "Jack Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkanvision/README-Generator/issues"
+  },
+  "homepage": "https://github.com/jkanvision/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
