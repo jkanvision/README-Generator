@@ -6,7 +6,7 @@
   
 
   ## Description: 
-  We intend to terminate the alphabet. All hail XYZ!  ;P
+  We intend to terminate the alphabet. All hail XYZ! <br> 😉
   &nbsp;
   &nbsp;
 
@@ -33,7 +33,8 @@
   &nbsp;
   &nbsp;
 
-
+  &nbsp;
+  &nbsp;
   ## License:
       This project is licensed under the APACHE 2.0 license.
 
@@ -57,4 +58,4 @@
   &nbsp;
   &nbsp;
   ## Questions:
-  If you have questions about this project, please contact me at [jkanvision@knights.ucf.edu](mailto:jkanvision@knights.ucf.edu). You can view my other projects by visiting my GitHub profile: [https://github.com/jkanvision](https://github.com/jkanvision).
+  If you have questions about this project, please contact me at [username@email.com](mailto:username@email.com). You can view my other projects by visiting my GitHub profile: [https://github.com/username](https://github.com/username).
