@@ -33,13 +33,25 @@
   >                  node index.js
   
 
+  Then, answer the questions and view the finished product!
+<br>
   &nbsp;
   &nbsp;
-  Example screenshot:
+
+  &nbsp;
+  &nbsp;
+Example screenshot:
   
+
   ![Screenshot of questions prompted in terminal](./images/readme-gen-scrnshot.png)
-  <br>
-  Answer the questions and view the finished product!
+  &nbsp;
+  &nbsp;
+  
+  &nbsp;
+  &nbsp;
+Video Walkthrough:
+
+  [![Video walkthrough demonstrating the functionality of the application](./images/vid-walkthru-scrnshot-sm.png)](https://drive.google.com/file/d/1oE74ODgu1b2Sa5wJnaV9Dw9QcFtroE8x/view)
 
   &nbsp;
   &nbsp;
