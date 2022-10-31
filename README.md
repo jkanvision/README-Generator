@@ -61,7 +61,7 @@ Video Walkthrough:
   &nbsp;
   &nbsp;
 ## Contributing:
-  If you would like to contribute to this project, please push your code to the repo and make a pull request.
+  If you would like to contribute to this project, please use a fork to push your code to the repo and make a pull request.
 
   &nbsp;
   &nbsp;
